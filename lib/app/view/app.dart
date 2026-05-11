@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_todos_bloc/counter/counter.dart';
-import 'package:flutter_todos_bloc/l10n/l10n.dart';
+import 'package:flutter_todos/counter/view/counter_page.dart';
+import 'package:flutter_todos/l10n/gen/app_localizations.dart';
 
 class App extends StatelessWidget {
   const App({super.key});

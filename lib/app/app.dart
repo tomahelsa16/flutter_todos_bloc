@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:flutter_todos/home/home.dart';
-import 'package:flutter_todos/l10n/l10n.dart';
+import 'package:flutter_todos/l10n/gen/app_localizations.dart';
 import 'package:flutter_todos/theme/theme.dart';
 import 'package:todos_repository/todos_repository.dart';
 
