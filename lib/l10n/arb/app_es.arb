@@ -3,5 +3,33 @@
     "counterAppBarTitle": "Contador",
     "@counterAppBarTitle": {
         "description": "Texto mostrado en la AppBar de la página del contador"
+    },
+    "editTodoAddAppBarTitle": "Añadir tarea",
+    "editTodoEditAppBarTitle": "Editar tarea",
+    "editTodoSaveButtonTooltip": "Guardar cambios",
+    "editTodoTitleLabel": "Título",
+    "editTodoDescriptionLabel": "Descripción",
+    "statsAppBarTitle": "Estadísticas",
+    "statsCompletedTodoCountLabel": "Tareas completadas",
+    "statsActiveTodoCountLabel": "Tareas activas",
+    "todosOverviewAppBarTitle": "Flutter Tareas",
+    "todosOverviewOptionsMarkAllComplete": "Marcar todas como completadas",
+    "todosOverviewOptionsClearCompleted": "Eliminar completadas",
+    "todosOverviewOptionsTooltip": "Opciones",
+    "todosOverviewOptionsMarkAllIncomplete": "Marcar todas como incompletas",
+    "todosOverviewFilterTooltip": "Filtro",
+    "todosOverviewFilterAll": "Todos",
+    "todosOverviewFilterActiveOnly": "Solo activos",
+    "todosOverviewFilterCompletedOnly": "Solo completados",
+    "todosOverviewErrorSnackbarText": "Ocurrió un error al cargar las tareas.",
+    "todosOverviewEmptyText": "No se encontraron tareas con los filtros actuales.",
+    "todosOverviewUndoDeletionButtonText": "Deshacer",
+    "todosOverviewTodoDeletedSnackbarText": "Tarea \"{title}\" eliminada.",
+    "@todosOverviewTodoDeletedSnackbarText": {
+        "placeholders": {
+            "title": {
+                "type": "String"
+            }
+        }
     }
 }

@@ -3,5 +3,33 @@
     "counterAppBarTitle": "Counter",
     "@counterAppBarTitle": {
         "description": "Text shown in the AppBar of the Counter Page"
+    },
+    "editTodoAddAppBarTitle": "Add Todo",
+    "editTodoEditAppBarTitle": "Edit Todo",
+    "editTodoSaveButtonTooltip": "Save changes",
+    "editTodoTitleLabel": "Title",
+    "editTodoDescriptionLabel": "Description",
+    "statsAppBarTitle": "Statistics",
+    "statsCompletedTodoCountLabel": "Completed todos",
+    "statsActiveTodoCountLabel": "Active todos",
+    "todosOverviewAppBarTitle": "Flutter Todos",
+    "todosOverviewOptionsMarkAllComplete": "Mark all as complete",
+    "todosOverviewOptionsClearCompleted": "Clear completed",
+    "todosOverviewOptionsTooltip": "Options",
+    "todosOverviewOptionsMarkAllIncomplete": "Mark all as incomplete",
+    "todosOverviewFilterTooltip": "Filter",
+    "todosOverviewFilterAll": "All",
+    "todosOverviewFilterActiveOnly": "Active only",
+    "todosOverviewFilterCompletedOnly": "Completed only",
+    "todosOverviewErrorSnackbarText": "An error occurred while loading todos.",
+    "todosOverviewEmptyText": "No todos found with the current filters.",
+    "todosOverviewUndoDeletionButtonText": "Undo",
+    "todosOverviewTodoDeletedSnackbarText": "Todo \"{title}\" deleted.",
+    "@todosOverviewTodoDeletedSnackbarText": {
+        "placeholders": {
+            "title": {
+                "type": "String"
+            }
+        }
     }
 }

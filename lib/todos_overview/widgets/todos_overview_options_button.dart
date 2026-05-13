@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:flutter_todos/l10n/l10n.dart';
-import 'package:flutter_todos/todos_overview/todos_overview.dart';
+import 'package:flutter_todos_bloc/l10n/l10n.dart';
+import 'package:flutter_todos_bloc/todos_overview/bloc/todos_overview_bloc.dart';
 
 @visibleForTesting
 enum TodosOverviewOption { toggleAll, clearCompleted }

@@ -1,8 +1,4 @@
 import 'package:todos_api/todos_api.dart';
-/// The interface and models for an API providing access to todos.
-library todos_api;
-
-export 'package:todos_api/src/models/models.dart';
 
 /// {@template todos_api}
 /// The interface for an API that provides access to a list of todos.
